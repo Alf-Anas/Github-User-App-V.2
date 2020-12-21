@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">Github User App V.2</string>
+    <string name="app_name">Github User App v.2</string>
+    <string name="app_name_main">Github User\'s Search</string>
+    <string name="app_name_detail">Detail User</string>
+
+    <string name="user_app">User App v.2</string>
+    <string name="follower">Followers</string>
+    <string name="following">Following</string>
+    <string name="repositories">Repositories</string>
+    <string name="repo">Repo</string>
+    <string name="email">Email</string>
+    <string name="location">Location</string>
+    <string name="company">company</string>
+
+    <string name="list_username">Username</string>
+    <string name="list_name">Name</string>
+    <string name="list_link">https://</string>
+    <string name="search_title">Search user…</string>
+    <string name="options_ln">Language Options</string>
+
+    <string name="double_back_pressed_to_exit">Press again to exit~</string>
 </resources>
